@@ -7,12 +7,7 @@ SPLIT: returns two subsets to tree maker, give FIND_SPLIT whole data
 FIND_SPLIT: return emitter and value of the best final split
 
 
-INFORAMTION GAIN: given two data sets, initial and 
+INFORAMTION GAIN: given 3 data sets, initial and two possible subsets,
 
 
 ENTROPY: returns the entropy given the split set working on
-
-
-
- 
- 
