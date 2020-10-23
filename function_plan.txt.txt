@@ -1,7 +1,7 @@
 DECISION TREE RECURSION: calls split, and forms tree
 
 
-SPLIT: returns two subsets to tree maker, give find split whole data
+SPLIT: returns two subsets to tree maker, give FIND_SPLIT whole data
 
 
 FIND_SPLIT: return emitter and value of the best final split
